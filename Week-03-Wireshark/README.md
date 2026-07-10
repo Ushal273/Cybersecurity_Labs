@@ -42,3 +42,9 @@ Example flow: Open Google → DNS → TCP → HTTPS → Webpage
 
 ## Key Takeaways
 Wireshark allows analysts to inspect network traffic in real time. Understanding packet structure and filters is a fundamental skill for SOC analysts when investigating suspicious network activity.
+
+
+---
+
+## Screenshots
+
