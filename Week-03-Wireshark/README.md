@@ -48,3 +48,15 @@ Wireshark allows analysts to inspect network traffic in real time. Understanding
 
 ## Screenshots
 
+<img width="959" height="422" alt="image" src="https://github.com/user-attachments/assets/106ce2a8-8870-48d5-9e27-bcca5351df44" />
+
+<img width="959" height="248" alt="image" src="https://github.com/user-attachments/assets/e44ef2ef-001c-43a2-b873-ec2383d3c9c4" />
+
+<img width="952" height="240" alt="image" src="https://github.com/user-attachments/assets/a06ad852-00f9-45e8-bb08-cfe0d491fa12" />
+
+
+<img width="959" height="277" alt="image" src="https://github.com/user-attachments/assets/9089db0f-3d28-49ef-ab10-edbb2b35ff75" />
+
+
+
+
